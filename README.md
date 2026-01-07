@@ -27,6 +27,7 @@ B --> C{ChatGPT Engine}
 C -->|Classification| D[Knowledge Base]
 C -->|Scheduling| E[Google Calendar API]
 ```
+![screenshot](https://github.com/bogabum/Yurist_ai_assistent/blob/main/2026-01-07_121037.png?raw=true)
 
 ## Особенности реализации
 - Четкое разделение между информационными запросами и юридическими консультациями
